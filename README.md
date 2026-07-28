@@ -175,4 +175,4 @@ MIT. See `LICENSE`.
 
 ## Contact
 
-Sofiane Boutgajouft, OrgaX LLC — contact@orgaxtech.com
+Sofiane Boutgajouft, OrgaX LLC — founder@orgaxtech.com
