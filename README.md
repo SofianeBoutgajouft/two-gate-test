@@ -171,7 +171,7 @@ Villani, C. (2009). *Optimal Transport: Old and New.* Springer.
 
 ## License
 
-GNU GPL v3.0. See `LICENSE`.
+CC BY-NC 4.0. See `LICENSE`.
 
 ## Contact
 
