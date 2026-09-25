@@ -2,9 +2,6 @@
 
 Reference implementation and replication code for:
 
-> Boutgajouft, S. (2026). *A Two-Gate Test for Structural Alpha in Systematic
-> Trading Strategies.* Quantitative Finance (under review).
-
 The test asks whether a systematic trading strategy's edge is **structural**,
 that is invariant across instruments, volatility regimes and time, or
 **regime-contingent**. It operates on the strategy's trade-level output alone:
